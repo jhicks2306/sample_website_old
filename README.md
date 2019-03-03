@@ -1,4 +1,4 @@
-# Learn Enought HTML to Be Dangerous
+# Learn Enough HTML to Be Dangerous
 
 ## This repo is the result of following the steps and exercises from Michael Hartl's [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)
 
